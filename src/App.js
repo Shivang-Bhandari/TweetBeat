@@ -10,24 +10,6 @@ import CardContent from '@material-ui/core/CardContent';
 import Button from '@material-ui/core/Button';
 import Icon from '@material-ui/core/Icon';
 
-//import { createMuiTheme } from '@material-ui/core/styles';
-
-/*const theme = createMuiTheme({
-  palette: {
-    primary: {
-      light : '#3c6fb4',
-      dark : '083571',
-      main : '#0c4ca2',
-  },
-  secondary: {
-    dark : '#a94817',
-    main: '#f26722',
-    light : '#f4854e',
-  },
-}
-});
-*/
-
 const styles = theme => ({
   container: {
     display: 'flex',
